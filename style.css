@@ -7,7 +7,7 @@
 }
 
 html, body{
-    background-color: gray;
+    background-color: skyblue;
     min-height: 100vh;
     max-height: 100vh;
 }
@@ -72,5 +72,5 @@ footer{
     width: 100%;
     text-align: center;
     padding: 5vh;
-    background-color: skyblue;
+    background-color: slategrey;
 }
