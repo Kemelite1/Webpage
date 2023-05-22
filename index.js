@@ -44,6 +44,7 @@ while (validateEmail(email) == false){
     email = prompt("Enter a valid email")
 }
 userDetailsDatabase["email"] = email
+console.log(userDetailsDatabase)
 
 // phone number
 let phoneNumber = prompt('Enter your phone number')
